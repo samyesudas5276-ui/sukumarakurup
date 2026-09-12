@@ -94,7 +94,7 @@ power on the car,arduino boots up and starts to function. car moves away as pers
 
 <img src="Screenshot 2026-09-12 064917.png">
 
-<img src="Screenshot 2026-09-12 064847.png">
+<img src="Screenshot 2026-09-12 065009.png">
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -121,8 +121,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1AwqczFFr3g0qBv-TVHzmjC8m3YR8cFrb/view?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
