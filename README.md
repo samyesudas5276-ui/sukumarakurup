@@ -92,7 +92,7 @@ power on the car,arduino boots up and starts to function. car moves away as pers
 # Screenshots (Add at least 3)
 <img src="Screenshot 2026-09-12 064847.png">
 
-<img src="Screenshot 2026-09-12 064847.png">
+<img src="Screenshot 2026-09-12 064917.png">
 
 <img src="Screenshot 2026-09-12 064847.png">
 
