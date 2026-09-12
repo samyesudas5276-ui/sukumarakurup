@@ -90,13 +90,11 @@ power on the car,arduino boots up and starts to function. car moves away as pers
 ### Project Documentation
 
 # Screenshots (Add at least 3)
-<img src="
+<img src="Screenshot 2026-09-12 064847.png">
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img src="Screenshot 2026-09-12 064847.png">
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img src="Screenshot 2026-09-12 064847.png">
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
