@@ -32,24 +32,65 @@ For Software:
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
+- [#
+Component
+Quantity
+Purpose
+1
+Arduino UNO   1
+L298N Motor Driver  Module      1
+Controls the two DC motors     3
+DC Geared Motors     2
+Drives the robot       4
+Robot chassis       1
+Mechanical frame     5
+Robot wheels     4
+Connected to the motors      8
+
+Supports the front/rear of chassis      2
+IR Obstacle Detection Sensor       1
+Battery holder      1
+
+Breadboard
+1
+Prototyping connections
+11
+Jumper wires – Male-Male
+Several
+Arduino/breadboard connections
+12
+Jumper wires – Male-Female
+Several
+Sensor connections
+13
+Jumper wires – Female-Female
+Several
+Module connections, if required
+14
+USB cable for Arduino UNO
+1
+
+Main ON/OFF control
+16
+Motor mounting hardware
+1 set
+Screws/nuts/spacers
+As required]
+- []
 - [List tools required]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+For Software: arduino ide, c++,
+for hardware :arduino uno , ir sensor , motor driver, dc gear motors, 
+
 
 # Run
-[commands]
+power on the car,arduino boots up and starts to function. car moves away as person approches
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img src="
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
